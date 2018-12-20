@@ -7,5 +7,7 @@ Based on the user and ingredients entered, the program returns a suggested dish 
 
 ## Data: 
 200 Dishes, 1000 users. 
+
 _dishes:_ Dishes based on a DishID with ingredients of each dish
+
 _user_ratings:_ User ratings of dishes. (Incomplete) 
