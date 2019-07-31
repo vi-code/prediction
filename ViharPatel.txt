@@ -1,12 +1,13 @@
 <span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cd PageRank/<!-- lag -->About
-<span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cat <!-- lag -->PageRank.txt<br/><br/>
+<span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cat <!-- lag -->dish_predictor.txt<br/><br/>
 
 
 
-<!-- lag -->You can find my implementation of my PageRank and HIITS algorithm <a href="https://github.com/vi-code/pagerank">here!<!-- lag --></a>
+<!-- lag -->You can find my implementation of a ratings predictor using Collaborative Filtering <a href="https://github.com/vi-code/prediction">here!<!-- lag --></a>
+
+<p> The program also returns a suggested dish for the user based on the vector space similarity supported memory-based collaborative filtering on a food recipe database. The database consists of 200 dishes and 1000 users.</p><!-- lag -->
 
 <p>View webpage source <a href="https://github.com/vi-code/vi-code.github.io">here!</a></p>
 
-<p> You can also download a printer-friendly version of my résumé <a href="https://github.com/vi-code/vi-code.github.io/raw/master/Resume_ViharPatel_SE_2019.pdf">here.</a></p><!-- lag -->
 
-<p>Peace!</p>
+
